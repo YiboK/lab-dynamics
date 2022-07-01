@@ -31,8 +31,8 @@ output:
 - All abstracts, posters, talks, preprints and papers are representations of the lab and must be approved by Claudia before submission
 
 
-Name of trainee:
+Name of trainee: Yibo Kong
 
-Signature of trainee:
+Signature of trainee: Yibo Kong
 
-Date:
+Date: 06/30/2022
